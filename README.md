@@ -25,19 +25,7 @@ A lightweight and responsive web application that allows users to convert images
 └── README.md        # Project documentation
 ```
 
----
 
-## 🖥️ Live Demo
-[**Try it here!**](#)  
-(*Upload this project to GitHub Pages, Vercel, or Netlify, and update this link.*)
-
----
-
-## 📸 Preview
-
-![App Preview](https://img.icons8.com/ios/250/upload.png)
-
----
 
 ## ⚡ Technologies Used
 - **HTML5**: Structure of the application.
